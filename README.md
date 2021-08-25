@@ -7,3 +7,5 @@ crawling python code : https://colab.research.google.com/drive/11AAyxVNUEtTrnvkM
 (Searched in Korean words for accurate information)
 
 machine learning : https://teachablemachine.withgoogle.com/
+
+url : https://yeonwookoh.github.io/bts-looklike/
